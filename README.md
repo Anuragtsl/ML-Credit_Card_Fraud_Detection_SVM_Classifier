@@ -27,11 +27,11 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Credit_Card_Fraud_Detection_SVM_Classifier/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Credit_Card_Fraud_Detection_SVM_Classifier/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Credit_Card_Fraud_Detection_SVM_Classifier/blob/main/Images/3.png)
 
 
 #Njoy!
