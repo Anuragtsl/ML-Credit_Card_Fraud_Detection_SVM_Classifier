@@ -6,7 +6,7 @@ In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matpl
 
 I've used [Jupyter Notebook]() for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Credit_Card_Fraud_Detection_SVM_Classifier/blob/main/creditcard.csv.zip)!**
 
 # About Data
 
@@ -23,7 +23,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 * Model Selection
 * Models Rank
 
-***Follow [notebook]() for more!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Credit_Card_Fraud_Detection_SVM_Classifier/blob/main/Credit%20Card%20Fraud%20Detection%20SVM%20Classifier.ipynb) for more!***
 
 # Preview
 
