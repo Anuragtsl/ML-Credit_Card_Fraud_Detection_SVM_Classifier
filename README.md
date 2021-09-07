@@ -2,9 +2,9 @@
 
 I have created Machine Learning Model With SVM Classifier for Credit Card Fraud Prediction.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), [Seaborn](), [Sklearn]() and much more for Analysis, Vizualization and Model Development.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Sklearn](https://scikit-learn.org/) and much more for Analysis, Vizualization and Model Development.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
 **Download the dataset from [here](https://github.com/Anuragtsl/ML-Credit_Card_Fraud_Detection_SVM_Classifier/blob/main/creditcard.csv.zip)!**
 
